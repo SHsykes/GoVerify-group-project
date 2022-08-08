@@ -8,6 +8,8 @@ If your service is publicly available on a subdomain other than service.gov.uk, 
 
 What typeface would you like to use?
 
+UCD team 8/8/22 - arial please 
+
 2. 
 
 From: https://www.gov.uk/service-manual/design/making-your-service-look-like-govuk#if-your-service-isnt-on-govuk
@@ -66,3 +68,5 @@ Also we had a discussion around browse not being very semantic so would like UCD
 10. 
 
 What functionality would you like the View button on the Your Documents page to have? Currently it does nothing as we aren't sure what you would like to happen when it is clicked.
+
+SS 8/8 - my thoughts are that the 'view' button could be changed to to combine the 2 buttons to just be 1 button that says 'delete and upload another doc', and that path would take you back round to the doc upload page again. You can already see a little image of the document already, maybe the image could be a clickable link where you can see a bigger screen of the doc if you want to check it? 
